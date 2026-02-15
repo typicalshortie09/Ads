@@ -157,6 +157,8 @@
     rotateBanner('banner1');
     rotateBanner('banner2');
   </script>
-
+<meta name="google-adsense-account" content="ca-pub-6098277355901807"><meta name="google-adsense-account" content="ca-pub-6098277355901807">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6098277355901807"
+     crossorigin="anonymous"></script>
 </body>
 </html>
