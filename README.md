@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
   <meta name="google-adsense-account" content="ca-pub-6098277355901807">
